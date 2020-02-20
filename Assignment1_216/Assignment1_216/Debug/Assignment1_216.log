@@ -1,0 +1,3 @@
+﻿  Assignment1.cpp
+c:\users\tiko\source\repos\assignment1_216\assignment1_216\assignment1.cpp(226): warning C4715: 'Course::points': not all control paths return a value
+  Assignment1_216.vcxproj -> C:\Users\Tiko\source\repos\Assignment1_216\Debug\Assignment1_216.exe
